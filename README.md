@@ -73,9 +73,9 @@ mupdf -r 72 bigfile.pdf    # Faster rendering
 mupdf -A0 crisp.pdf       # Disable anti-aliasing
 ```
 
-## **🚀 PDF open in MuPDF**
+## **⚙️ PDF open in MuPDF olways**
 ```bash
-Open With --> Open With... --> CUstom Command Line --> Command Line: mupdf --> Application name: mupdf --> Set application as default action for this type file --> OK
+Open With --> Open With... --> Custom Command Line --> Command Line: mupdf --> Application name: mupdf --> Set application as default action for this type file --> OK
 ```
 
 
