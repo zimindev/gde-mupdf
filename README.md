@@ -73,6 +73,12 @@ mupdf -r 72 bigfile.pdf    # Faster rendering
 mupdf -A0 crisp.pdf       # Disable anti-aliasing
 ```
 
+## **🚀 PDF open in MuPDF**
+```bash
+Open With --> Open With... --> CUstom Command Line --> Command Line: mupdf --> Application name: mupdf --> Set application as default action for this type file --> OK
+```
+
+
 ## **MuPDF the best**
 ✅ **Same great experience on all distros**  
 ✅ **Lightest PDF viewer available** (uses just ~10MB RAM!)  
